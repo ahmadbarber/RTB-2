@@ -1,0 +1,14 @@
+:root {
+  --input-text-style-font-family: "Inter", Helvetica;
+  --input-text-style-font-weight: 400;
+  --input-text-style-font-size: 25px;
+  --input-text-style-letter-spacing: 0px;
+  --input-text-style-line-height: 28px;
+  --input-text-style-font-style: normal;
+  --collection-1-input-variables-LR-padding: 16px;
+  --collection-1-input-variables-TB-padding: 12px;
+  --collection-1-input-variables-corner-radius: 2px;
+  --collection-1-input-variables-typed-text: rgba(0, 0, 0, 1);
+  --collection-1-input-variables-placeholder-text: rgba(206, 208, 212, 1);
+  --collection-1-input-variables-cursor-spacing: 2px;
+}
